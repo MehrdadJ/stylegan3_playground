@@ -39,4 +39,3 @@ Distributed under the MIT License. See LICENSE for more information.Distributed 
 
 - The original creators of StyleGANs for their groundbreaking work in generative models.
 - The AI community for the continuous exchange of ideas and advancements in machine learning and artificial intelligence.
->>>>>>> 64e740f (Initial commit)
